@@ -1,0 +1,54 @@
+.task .container .row .col-sm-6{
+    color: #fff;
+    
+}
+
+.navbar .collapse{
+    margin-left: 800px;
+}
+
+.service{
+    padding-top: 80px;
+}
+
+.carousel-caption{
+    margin: 50px;
+}
+.contacts{
+    background-color: red;
+    color: #fff;
+}
+
+.contacts p{
+    font-size: 25px;
+    margin-top: 100px;
+    
+}
+
+.contacts button{
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+.col-lg-6 h3{
+    color: red;
+}
+
+.carousel-item{
+    padding-top: 50px;
+}
+
+.test{
+    min-height: 500px;
+    background-color: #333;
+    color: #fff;
+}
+
+
+.footer .copyright{
+    background: #333;
+    color: #AAA;
+    padding: 15px 0;
+    margin-top: 30px;
+    font-size: 18px; 
+}
